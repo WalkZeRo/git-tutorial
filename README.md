@@ -6,5 +6,6 @@ add README.md
 
 - test feature-A
 
--fix-B
--feature-C
+- fix-B
+- feature-C
+- feature-D
